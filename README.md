@@ -31,8 +31,6 @@ Clears the screen and then automatically prints a random length string of random
 
 There is no exit key on this one, you just have to force stop the program using `^C` or some other method.
 
-
-
 ## How To Setup
 
 ### Step 1: Get the Python Files to Run
@@ -48,7 +46,7 @@ $ cd hackermode
 $ python3 hackermode.py
 ```
 
-### Step 2: Make Alias 
+### Step 2: Make Alias
 
 > This step is important so that you can quickly look like a hacker when someone walks up behind you.
 
