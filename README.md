@@ -40,6 +40,12 @@ There is no exit key on this one, you just have to force stop the program using 
 ```bash
 # Clone this repository
 $ git clone {{insert_link}}
+
+# Change Directory into the newly cloned repository
+$ cd hackermode
+
+# Run the file!
+$ python3 hackermode.py
 ```
 
 ### Step 2: Make Alias 
