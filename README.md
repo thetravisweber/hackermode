@@ -37,7 +37,7 @@ There is no exit key on this one, you just have to force stop the program using 
 
 ```bash
 # Clone this repository
-$ git clone {{insert_link}}
+$ git clone https://github.com/thetravisweber/hackermode.git
 
 # Change Directory into the newly cloned repository
 $ cd hackermode
